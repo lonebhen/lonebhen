@@ -14,7 +14,7 @@
 
 - 🤚 About me - **I'm computer engineering student, a self-taught programmer. I have interest in software development and embedded system designs. Always open to new opportunities(Jobs,Project Collaborations, Internships) 🙋‍♂️.**
 
-- 🌱 I’m currently learning **Angular , Flutter**
+- 🌱 I’m currently learning **Angular** 
 
 - 📫 How to reach me **ben.angmortey@gmail.com**
 
