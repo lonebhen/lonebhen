@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Benjamin Angmortey Kubi</h1>
+<h1 align="center">Hi 👋, I'm Benjamin Kubi</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 <img align = "right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width= "600">
 
