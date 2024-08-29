@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Benjamin Kubi</h1>
-<h3 align="center">A Computer Engineering Student</h3>
+<h3 align="center">A Computer Engineering Graduate</h3>
 <img align = "right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width= "600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebhen&label=Profile%20views&color=0e75b6&style=flat" alt="lonebhen" /> </p>
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/lonebhen" target="blank"><img src="https://img.shields.io/twitter/follow/lonebhen?logo=twitter&style=for-the-badge" alt="lonebhen" /></a> </p>
 
-- 🤚 About me - **I'm computer engineering student, a self-taught programmer. I have interest in software development and embedded system designs. Always open to new opportunities(Jobs,Project Collaborations, Internships) 🙋‍♂️.**
+- 🤚 About me - **I'm a computer engineering graduate, a programmer. I have interest in software development and embedded system designs. Always open to new opportunities(Jobs,Project Collaborations, Internships) 🙋‍♂️.**
 
-- 🌱 I’m currently learning **Angular** , **Java** 
+- 🌱 Delving more into **C** , **C++** 
 
 - 📫 How to reach me **ben.angmortey@gmail.com**
 
